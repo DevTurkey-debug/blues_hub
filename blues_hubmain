@@ -57,6 +57,6 @@ loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Mobile-fly-
 local Button = MainTab:CreateButton({
    Name = "Fling",
    Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DevTurkey-debug/spincode/refs/heads/main/spincode.lua"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/LgZwZ7ZB",true))()
    end,
 })
