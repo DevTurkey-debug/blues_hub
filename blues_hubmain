@@ -60,3 +60,24 @@ local Button = MainTab:CreateButton({
 loadstring(game:HttpGet("https://pastebin.com/raw/LgZwZ7ZB",true))()
    end,
 })
+
+local Button = MainTab:CreateButton({
+   Name = "Btools (Only Works In Games With HD Admin)",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DevTurkey-debug/btoolshd/refs/heads/main/btoolsHDADMIN"))()            
+   end,
+})
+
+local Button = MainTab:CreateButton({
+   Name = "Btools (Only Works In Games With HD Admin)",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DevTurkey-debug/btoolsuniversalbeta/refs/heads/main/f3xbeta"))()            
+   end,
+})
+
+local Button = MainTab:CreateButton({
+   Name = "Btools (Only Works In Games With HD Admin)",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DevTurkey-debug/HackGui/refs/heads/main/xspectralhubhack"))()            
+   end,
+})
